@@ -18,7 +18,7 @@ Este é um simples projeto em Python que calcula a média aritmética dos volume
 
 2. Navegue até o diretório do projeto:
 
-        cd exercícios
+        cd exercicios
 
 3. Execute o script Python:
 
